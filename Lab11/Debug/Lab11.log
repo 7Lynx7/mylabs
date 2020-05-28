@@ -1,0 +1,12 @@
+﻿  main.cpp
+F:\Projects\Cpp\labs\MyLabs\Lab11\main.cpp(24,17): warning C4129: 'P': unrecognized character escape sequence
+F:\Projects\Cpp\labs\MyLabs\Lab11\main.cpp(24,17): warning C4129: 'i': unrecognized character escape sequence
+F:\Projects\Cpp\labs\MyLabs\Lab11\main.cpp(31,18): warning C4129: 'P': unrecognized character escape sequence
+F:\Projects\Cpp\labs\MyLabs\Lab11\main.cpp(31,18): warning C4129: 'o': unrecognized character escape sequence
+F:\Projects\Cpp\labs\MyLabs\Lab11\main.cpp(41,12): warning C4129: 'P': unrecognized character escape sequence
+F:\Projects\Cpp\labs\MyLabs\Lab11\main.cpp(41,12): warning C4129: 'i': unrecognized character escape sequence
+F:\Projects\Cpp\labs\MyLabs\Lab11\main.cpp(43,12): warning C4129: 'P': unrecognized character escape sequence
+F:\Projects\Cpp\labs\MyLabs\Lab11\main.cpp(43,12): warning C4129: 'o': unrecognized character escape sequence
+F:\Projects\Cpp\labs\MyLabs\Lab11\main.cpp(43,39): warning C4129: 'P': unrecognized character escape sequence
+F:\Projects\Cpp\labs\MyLabs\Lab11\main.cpp(43,39): warning C4129: 'i': unrecognized character escape sequence
+  Lab11.vcxproj -> F:\Projects\Cpp\labs\MyLabs\Lab11\Debug\Lab11.exe

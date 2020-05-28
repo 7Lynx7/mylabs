@@ -1,0 +1,2 @@
+F:\Projects\Cpp\labs\MyLabs\Lab11\Debug\Lab11.exe
+F:\Projects\Cpp\labs\MyLabs\Lab11\Debug\Lab11.pdb
